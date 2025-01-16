@@ -253,3 +253,8 @@ footer{
 .footer-content{
     padding: 32px 0 50px 0;
 }
+.all-contents{
+    display: flex;
+    justify-content: center;
+    gap: 23px;
+}
